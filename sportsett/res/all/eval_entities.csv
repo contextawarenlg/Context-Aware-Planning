@@ -1,0 +1,13 @@
+players,similarity,reuse,features,pop,tpop,week,stands,f1,f2,prec,rec,dld,length
+imp,euclidean,median,set,False,False,False,False,57.03,54.53,61.77,52.97,10.61,11.46
+imp,euclidean,first,set,False,False,False,False,60.17,56.5,67.48,54.29,10.94,10.46
+imp,cosine,median,set,False,False,False,False,55.18,51.71,62.14,49.63,12.22,10.31
+imp,cosine,first,set,False,False,False,False,56.26,48.68,75.99,44.67,11.82,8.36
+imp,euclidean,median,set,True,False,False,False,59.93,59.83,60.1,59.77,10.67,12.39
+imp,euclidean,median,set,False,True,False,False,60.59,56.09,69.94,53.45,13.65,10.27
+imp,euclidean,median,set,False,False,True,False,60.16,57.53,65.12,55.9,12.03,12.09
+imp,euclidean,median,set,False,False,False,True,64.68,58.88,77.4,55.55,16.7,11.91
+imp,euclidean,median,set,True,True,False,False,60.97,60.69,61.42,60.51,10.71,12.2
+imp,euclidean,median,set,False,False,True,True,67.35,69.64,63.86,71.25,11.39,16.84
+imp,euclidean,median,set,False,True,True,True,55.42,52.38,61.34,50.54,12.18,11.25
+imp,euclidean,median,set,True,True,True,True,53.99,51.97,57.72,50.71,11.05,11.22

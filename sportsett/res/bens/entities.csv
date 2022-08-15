@@ -1,0 +1,9 @@
+,f2,prec,rec,f1,dld
+imp_players-set_ftrs-euclidean_sim-median_reuse,60.22,60.60,60.13,60.37,10.65
+imp_players-set_ftrs-euclidean_sim-median_reuse-pop,57.32,61.24,56.42,58.73,10.78
+imp_players-set_ftrs-euclidean_sim-median_reuse-tpop,59.98,62.07,59.48,60.75,10.77
+imp_players-set_ftrs-euclidean_sim-median_reuse-week,60.47,60.53,60.46,60.50,10.36
+imp_players-set_ftrs-euclidean_sim-median_reuse-stands,59.02,62.95,58.11,60.43,11.27
+imp_players-set_ftrs-euclidean_sim-median_reuse-pop-tpop,54.49,60.91,53.09,56.74,12.80
+imp_players-set_ftrs-euclidean_sim-median_reuse-stands-week,56.28,60.51,55.31,57.79,11.17
+imp_players-set_ftrs-euclidean_sim-median_reuse-pop-tpop-stands-week,59.85,62.84,59.15,60.94,12.28

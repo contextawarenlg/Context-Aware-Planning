@@ -1,0 +1,20 @@
+{
+	"temp": 7.96910569105691,
+	"cbr": 8.033333333333333,
+	"ent": 13.66178861788618,
+	"hir": 11.995121951219513,
+	"mp": 9.713821138211381,
+	"imp_players-set_ftrs-euclidean_sim-median_reuse": 11.46260162601626,
+	"imp_players-set_ftrs-euclidean_sim-first_reuse": 10.458536585365854,
+	"imp_players-set_ftrs-cosine_sim-median_reuse": 10.308943089430894,
+	"imp_players-set_ftrs-cosine_sim-first_reuse": 8.36260162601626,
+	"imp_players-set_ftrs-euclidean_sim-median_reuse-pop": 12.386178861788618,
+	"imp_players-set_ftrs-euclidean_sim-median_reuse-tpop": 10.273983739837398,
+	"imp_players-set_ftrs-euclidean_sim-median_reuse-week": 12.088617886178861,
+	"imp_players-set_ftrs-euclidean_sim-median_reuse-stands": 11.914634146341463,
+	"imp_players-set_ftrs-euclidean_sim-median_reuse-pop-tpop": 12.198373983739838,
+	"imp_players-set_ftrs-euclidean_sim-median_reuse-stands-week": 16.836585365853658,
+	"imp_players-set_ftrs-euclidean_sim-median_reuse-tpop-stands-week": 11.254471544715447,
+	"imp_players-set_ftrs-euclidean_sim-median_reuse-pop-tpop-stands-week": 11.21951219512195,
+	"gold": 12.767479674796748
+}
